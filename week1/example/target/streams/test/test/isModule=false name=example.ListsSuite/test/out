@@ -1,0 +1,11 @@
+[info] ListsSuite:
+[info] - one plus one is two
+[info] - one plus one is three?
+[info] - details why one plus one is not three
+[info] - intNotZero throws an exception if its argument is 0
+[info] - sum of a few numbers
+[info] - sum of empty list is 0
+[info] - sum list of one element is the element
+[info] - max of a few numbers
+[info] - max of empty list throws NoSuchElementException
+[info] - max of a list of one element is the element itself

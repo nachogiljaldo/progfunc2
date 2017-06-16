@@ -1,0 +1,7 @@
+[info] Packaging /Users/jose/Documents/learning/progfunc2/week1/example/target/scala-2.11/progfun2-example_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	Main.scala
+[debug] 	  /Users/jose/Documents/learning/progfunc2/week1/example/src/main/scala/Main.scala
+[debug] 	example/Lists.scala
+[debug] 	  /Users/jose/Documents/learning/progfunc2/week1/example/src/main/scala/example/Lists.scala
+[info] Done packaging.
