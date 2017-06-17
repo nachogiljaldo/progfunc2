@@ -1,0 +1,32 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(/Users/jose/Documents/learning/progfunc2/week2/streams/src/test/scala/streams/BloxorzSuite.scala)
+[debug] Invalidated products: Set(/Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$3.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$SolutionChecker$class.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$1.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$3$$anon$3.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$2.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$Level1.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$4$$anon$4.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$Level1$class.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$4.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$SolutionChecker$$anonfun$solve$1.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$1$$anon$1.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$2$$anon$2.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$SolutionChecker.class, /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes/streams/BloxorzSuite.class)
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(/Users/jose/Documents/learning/progfunc2/week2/streams/src/test/scala/streams/BloxorzSuite.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(/Users/jose/Documents/learning/progfunc2/week2/streams/src/test/scala/streams/BloxorzSuite.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(/Users/jose/Documents/learning/progfunc2/week2/streams/src/test/scala/streams/BloxorzSuite.scala)
+[info] Compiling 1 Scala source to /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes...
+[debug] Getting compiler-interface from component compiler for Scala 2.11.7
+[debug] Getting compiler-interface from component compiler for Scala 2.11.7
+[debug] Running cached compiler 5b96e91c, interfacing (CompilerInterface) with Scala compiler version 2.11.7
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-deprecation
+[debug] 	-bootclasspath
+[debug] 	/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes:/Users/jose/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+[debug] 	-classpath
+[debug] 	/Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/test-classes:/Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/classes:/Users/jose/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar:/Users/jose/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/Users/jose/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/Users/jose/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.1.jar:/Users/jose/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar:/Users/jose/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar:/Users/jose/.ivy2/cache/junit/junit/jars/junit-4.10.jar:/Users/jose/.ivy2/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.1.jar
+[debug] Scala compilation took 3.078864621 s
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()
