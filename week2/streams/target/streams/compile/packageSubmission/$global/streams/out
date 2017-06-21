@@ -1,13 +1,1 @@
-[info] Packaging /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/progfun2-streams_2.11-0.1-SNAPSHOT.jar ...
-[debug] Input file mappings:
-[debug] 	streams/StringParserTerrain.scala
-[debug] 	  /Users/jose/Documents/learning/progfunc2/week2/streams/src/main/scala/streams/StringParserTerrain.scala
-[debug] 	streams/GameDef.scala
-[debug] 	  /Users/jose/Documents/learning/progfunc2/week2/streams/src/main/scala/streams/GameDef.scala
-[debug] 	streams/InfiniteTerrain.scala
-[debug] 	  /Users/jose/Documents/learning/progfunc2/week2/streams/src/main/scala/streams/InfiniteTerrain.scala
-[debug] 	streams/Bloxorz.scala
-[debug] 	  /Users/jose/Documents/learning/progfunc2/week2/streams/src/main/scala/streams/Bloxorz.scala
-[debug] 	streams/Solver.scala
-[debug] 	  /Users/jose/Documents/learning/progfunc2/week2/streams/src/main/scala/streams/Solver.scala
-[info] Done packaging.
+[debug] Jar uptodate: /Users/jose/Documents/learning/progfunc2/week2/streams/target/scala-2.11/progfun2-streams_2.11-0.1-SNAPSHOT.jar
